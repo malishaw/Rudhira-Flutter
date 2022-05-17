@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748085292891",
+    "project_id": "rudhira-9c416",
+    "storage_bucket": "rudhira-9c416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748085292891:android:1d7b4f9034645e9f67347e",
+        "android_client_info": {
+          "package_name": "com.blood.blooddonateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748085292891-0t2j20thhbgutl172dl5n9f7snj351cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OU32Q62b8OmxWaRrk9NxIfZgeiaBZQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748085292891-0t2j20thhbgutl172dl5n9f7snj351cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
